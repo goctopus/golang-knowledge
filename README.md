@@ -24,6 +24,10 @@ A collection of golang knowledge.
 - [Golang源码探索(一) 编译和调试源码](https://www.cnblogs.com/zkweb/p/7777525.html)
 - [Golang 优化之路——临时对象池](http://blog.cyeam.com/golang/2017/02/08/go-optimize-slice-pool)
 - [Go语言的实时GC——理论与实践](https://segmentfault.com/a/1190000010753702)
+- [Go数据竞争](https://golang.org/doc/articles/race_detector.html)
+- [golang string和[]byte的对比](https://sheepbao.github.io/post/golang_byte_slice_and_string/)
+- [Golang 字符串连接性能探究](https://sheepbao.github.io/post/golang_string_connect_performance/)
+
 
 ## Code
 
