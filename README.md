@@ -27,6 +27,7 @@ A collection of golang knowledge.
 - [Go数据竞争](https://golang.org/doc/articles/race_detector.html)
 - [golang string和[]byte的对比](https://sheepbao.github.io/post/golang_byte_slice_and_string/)
 - [Golang 字符串连接性能探究](https://sheepbao.github.io/post/golang_string_connect_performance/)
+- [golang相关问题的官方解答](https://golang.org/doc/faq)
 
 
 ## Code
