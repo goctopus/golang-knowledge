@@ -30,7 +30,7 @@ A collection of golang knowledge.
 - [Golang 字符串连接性能探究](https://sheepbao.github.io/post/golang_string_connect_performance/)
 - [golang相关问题的官方解答](https://golang.org/doc/faq)
 - [Understanding the context package in golang](http://p.agnihotry.com/post/understanding_the_context_package_in_golang/)
-
+- [handling-errors-in-defer](https://pocketgophers.com/handling-errors-in-defer/)
 
 ## Code
 
